@@ -1,0 +1,3 @@
+C:\Users\Wills\source\repos\squareMemory\squareMemory\obj\Debug\squareMemory.njsproj.AssemblyReference.cache
+C:\Users\Wills\source\repos\squareMemory\squareMemory\obj\Debug\squareMemory.njsproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\squareMemory\squareMemory\bin\Microsoft.NodejsTools.WebRole.dll
