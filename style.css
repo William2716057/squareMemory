@@ -114,6 +114,7 @@ body {
 }
 
 .Start-Btn,
+
 .save-score {
     background: #ffd154;
     border: none;
@@ -177,10 +178,7 @@ body {
     margin-top: 8.5px;
 }
 
-.disc {
-    color: #fff;
-    font-size: 18px;
-}
+
 
 .try-again {
     background: #95c3e8;
